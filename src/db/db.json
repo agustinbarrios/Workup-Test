@@ -1,0 +1,92 @@
+[
+  {
+    "imageUrl": "https://cdn.dediegosrl.com/wp-content/uploads/2021/01/5e3d6c8c62dd2f00bc74fe92.jpg",
+    "name": "Generador portátil Lüsqtoff LG950P 800W 220V",
+    "types": [0, 1],
+    "sizes": [3, 6, 12],
+    "price": 803,
+    "category": 0,
+    "rating": "Lüsqtoff"
+  },
+  {
+    "imageUrl": "https://adamimages.sbdinc.com/GEM/BlackAndDecker/1000x1000_144r/G650_1.jpg",
+    "name": "Amoladora Angular 820w 115mm Black Decker G720n",
+    "types": [0],
+    "sizes": [3, 6, 12],
+    "price": 245,
+    "category": 1,
+    "rating": 6
+  },
+  {
+    "imageUrl": "https://adamimages.sbdinc.com/GEM/Dewalt/1000x1000_72r/DWE560_1.jpg",
+    "name": "Sierra circular eléctrica de 7-1/4 185mm",
+    "types": [0],
+    "sizes": [3, 6, 12],
+    "price": 295,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "imageUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/010/857/products/45017231-9ef92a253adafcae2b15634881754677-1024-1024.jpg",
+    "name": "Motosierra eléctrica GH-EC 2040",
+    "types": [1],
+    "sizes": [3, 6, 12],
+    "price": 275,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "imageUrl": "https://www.repuestosmartin.com.ar/wp-content/uploads/2018/11/llave-de-impacto-inalambrica-min.png",
+    "name": "Llave De Impacto Inalambrica 18v Enc. 1/2 Dowen Pagio",
+    "types": [0, 1],
+    "sizes": [3, 6, 12],
+    "price": 415,
+    "category": 3,
+    "rating": 8
+  },
+  {
+    "imageUrl": "https://tevisa.es/6207-medium_default/sierra-calar-710w-gst8000-e-bosch.jpg",
+    "name": "Sierra Calar 710W GST8000 E BOSCH",
+    "types": [0],
+    "sizes": [3, 6, 12],
+    "price": 580,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "imageUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/952/936/products/1-t_371624_371624-1dc9d54157fbf2f9de15532939745866-1024-1024.jpg",
+    "name": "Camisa De Trabajo Ombu",
+    "types": [0, 1],
+    "sizes": [3, 6, 12],
+    "price": 675,
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "imageUrl": "https://www.ferreterasanluis.com/uploads/images/full/_1630508059-52134e663fd2260b0e9806f74136fcf4.jpg",
+    "name": "Pala Ancha cabo corto",
+    "types": [0, 1],
+    "sizes": [3, 6, 12],
+    "price": 450,
+    "category": 4,
+    "rating": 10
+  },
+  {
+    "imageUrl": "https://www.alfaser.com.ar/img/p/2/7/0/1/7/27017-tm_thickbox_default.jpg",
+    "name": "Rotomartillo Dewalt 800w Sds Plus Martillo Demoledor D25133k",
+    "types": [0, 1],
+    "sizes": [3, 6, 12],
+    "price": 395,
+    "category": 5,
+    "rating": 10
+  },
+  {
+    "imageUrl": "https://equipmaster.com.co/wp-content/uploads/2021/05/Apisonador_Motor_Honda_GX100_Equipmaster.jpg",
+    "name": "Apisonador (canguro) Motor HONDA GX120R Gasolina",
+    "types": [0, 1],
+    "sizes": [3, 6, 12],
+    "price": 285,
+    "category": 5,
+    "rating": 7
+  }
+]
